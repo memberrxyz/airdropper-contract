@@ -1,0 +1,29 @@
+{
+  "name": "memberr-airdropper",
+  "version": "0.0.1",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/hardhat"
+    ]
+  },
+  "scripts": {
+    "account": "yarn workspace @memberr-airdropper/hardhat account",
+    "chain": "yarn workspace @memberr-airdropper/hardhat chain",
+    "fork": "yarn workspace @memberr-airdropper/hardhat fork",
+    "deploy": "yarn workspace @memberr-airdropper/hardhat deploy",
+    "verify": "yarn workspace @memberr-airdropper/hardhat verify",
+    "compile": "yarn workspace @memberr-airdropper/hardhat compile",
+    "generate": "yarn workspace @memberr-airdropper/hardhat generate",
+    "hardhat:lint": "yarn workspace @memberr-airdropper/hardhat lint",
+    "hardhat:lint-staged": "yarn workspace @memberr-airdropper/hardhat lint-staged",
+    "hardhat:test": "yarn workspace @memberr-airdropper/hardhat test",
+    "postinstall": "husky install",
+    "precommit": "lint-staged"
+  },
+  "packageManager": "yarn@3.2.3",
+  "devDependencies": {
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3"
+  }
+}
