@@ -1,6 +1,7 @@
 # Memberr Airdropper Contract
 
 Airdropper contract used by [memberr.xyz](https://staging.memberr.xyz).
+Can drop ERC1155 and ERC721 tokens to a list of recipients.
 
 ## Setup
 
