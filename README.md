@@ -32,9 +32,9 @@ yarn verify --network polygon
 
 | Network | Contract Name | Address |
 |---|---|---|
-| goerli | MemberrAirdropper | [0x00000](https://goerli.etherscan.com/address/0x00000) |
-| mumbai | MemberrAirdropper | [0x00000](https://mumbai.polygonscan.com/address/0x00000) |
-| polygon | MemberrAirdropper | [0x00000](https://polygonscan.com/address/0x00000) |
+| goerli | MemberrAirdropper | [0xfa04a138e4b0128d890634098be5960cf153b634](https://goerli.etherscan.com/address/0xfa04a138e4b0128d890634098be5960cf153b634) |
+| mumbai | MemberrAirdropper | [0x2C6C4c106F423c1C25932c474Abb356e8BBa8cC7](https://mumbai.polygonscan.com/address/0x2C6C4c106F423c1C25932c474Abb356e8BBa8cC7) |
+| polygon | MemberrAirdropper | [0x2C6C4c106F423c1C25932c474Abb356e8BBa8cC7](https://polygonscan.com/address/0x2C6C4c106F423c1C25932c474Abb356e8BBa8cC7) |
 
 ## License
 
